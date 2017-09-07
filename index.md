@@ -16,10 +16,10 @@ I received the BEng degree of Shenyang Institute of Technology, ShenYang, China.
 Wearable and Mobile Computing, Human-computer Interaction, Ubiquitous computing
 
 ## Awards
-1.2013年，获辽宁省首届移动应用开发大赛一等奖
-2.2014年，获辽宁省第八届大学生计算机设计竞赛一等奖
-3.2014年，获辽宁省大学生课外学术知识竞赛二等奖（挑战杯）
-4.2015年，获辽宁省第二届移动应用开发大赛三等奖
+<p>1.2013年，获辽宁省首届移动应用开发大赛一等奖</p>
+<p>2.2014年，获辽宁省第八届大学生计算机设计竞赛一等奖</p>
+<p>3.2014年，获辽宁省大学生课外学术知识竞赛二等奖（挑战杯）</p>
+<p>4.2015年，获辽宁省第二届移动应用开发大赛三等奖</p>
 
 ## Publications
 1.基于MVC架构的交友网站系统的设计与实现_赵猛(2014)
