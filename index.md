@@ -1,4 +1,19 @@
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style>
+ul,p{margin:0;padding:0;}
+li{list-style:none;}
+.box{width:500px;margin:100px auto;}
+.box .img{float:left;}
+.box .img img{width:100px;height:100px;}
+.box .list{float:left;width:200px;margin-left:20px;display:inline;}
+.box .list li{line-height:24px;font-size:14px;}
+.list li span{font-weight:bold;}
+</style>
+</head>
 <div class="box">
     <div class="img">
        <img width="200" height="200" src="https://MengZhao2017.github.io/zm.jpg" alt="" />
