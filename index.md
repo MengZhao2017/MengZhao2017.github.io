@@ -3,7 +3,7 @@
     <div class="img" float:left;>
        <img width="200" height="200" src="https://MengZhao2017.github.io/zm.jpg" alt="" />
     </div>
-    <ul class="list" margin:0;padding:0;float:right;width:200px;margin-left:20px;display:inline;>
+    <ul class="list" margin:0;padding:0;float:left;width:200px;margin-left:20px;display:inline;>
         <li><span font-weight:bold;>姓名:</span>测试</li>
         <li><span font-weight:bold;>性别:</span>男</li>
         <li><span font-weight:bold;>描述：</span><p>测试测试测试测试测试才愁死额</p></li>
@@ -11,7 +11,7 @@
 </div>
 
 <img width="200" height="200" src="https://MengZhao2017.github.io/zm.jpg"/>  
-
+<div> Welcome to Meng Zhao's GitHub Pages(赵猛)</div>
 ## Welcome to Meng Zhao's GitHub Pages(赵猛)
 
 Email:zhaomeng.szu.edu@gmail.com
