@@ -1,12 +1,12 @@
 
 
 
-<img width="200" height="200" align="left" src="https://MengZhao2017.github.io/zm.jpg"/> 
-<img src="https://MengZhao2017.github.io/zm1.jpg" width=256 height=256 />
 
-<p align="right">Email:zhaomeng.szu.edu@gmail.com</p>
-<p align="right">Blog:http://blog.csdn.net/zhaomengszu</p>
-<p align="right">Addr:College of Computer Science and Software Engineering </p>
+<img src="https://MengZhao2017.github.io/zm1.jpg" width=256 height=256 align="right" />
+
+<p align="left">Email:zhaomeng.szu.edu@gmail.com</p>
+<p align="left">Blog:http://blog.csdn.net/zhaomengszu</p>
+<p align="left">Addr:College of Computer Science and Software Engineering </p>
 
 ## Welcome to Meng Zhao's GitHub Pages(赵猛)
 
