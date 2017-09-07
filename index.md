@@ -2,7 +2,7 @@
 
 
 <img width="200" height="200" align="left" src="https://MengZhao2017.github.io/zm.jpg"/> 
-
+<img src="https://MengZhao2017.github.io/zm1.jpg" width=256 height=256 />
 
 <p align="right">Email:zhaomeng.szu.edu@gmail.com</p>
 <p align="right">Blog:http://blog.csdn.net/zhaomengszu</p>
