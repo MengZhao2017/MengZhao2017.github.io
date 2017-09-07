@@ -1,8 +1,8 @@
 
 
 
-<img width="200" height="200" style='float:right' src="https://MengZhao2017.github.io/zm1.jpg"/>  
-
+<img width="200" height="200" src="https://MengZhao2017.github.io/zm1.jpg"/>  
+<p align="right"> zhaomeng</p>
 ## Welcome to Meng Zhao's GitHub Pages(赵猛)
 
 Email:zhaomeng.szu.edu@gmail.com
