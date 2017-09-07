@@ -1,7 +1,7 @@
 
 
 
-<img width="200" height="200" src="https://MengZhao2017.github.io/zm.jpg"/>  #Welcome to Meng Zhao's GitHub Pages(赵猛)
+<img width="200" height="200" src="https://MengZhao2017.github.io/zm.jpg"/>  
 
 ## Welcome to Meng Zhao's GitHub Pages(赵猛)
 
