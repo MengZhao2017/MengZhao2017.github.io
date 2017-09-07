@@ -1,12 +1,15 @@
 
 
 
-<img width="200" height="200" src="https://MengZhao2017.github.io/zm1.jpg"/>  
+<img width="200" height="200" align="left" src="https://MengZhao2017.github.io/zm1.jpg"/>  
 <p align="right"> zhaomeng</p>
-## Welcome to Meng Zhao's GitHub Pages(赵猛)
-
 <p align="right">Email:zhaomeng.szu.edu@gmail.com</p>
 <p align="right">Blog:http://blog.csdn.net/zhaomengszu</p>
+<p align="right">Addr:College of Computer Science and Software Engineering </p>
+
+## Welcome to Meng Zhao's GitHub Pages(赵猛)
+
+
 
 ## Biography
 I received the BEng degree of Shenyang Institute of Technology, ShenYang, China. Since 2016, I am currently a Master student in the college of computer science and software engineering in Shen Zhen University (SZU),under the supervision of Professor Kaishun Wu.My current research interests mainly include: Mobile Computing, Wearable Computing and Wireless Communication. 
