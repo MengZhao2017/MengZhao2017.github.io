@@ -1,7 +1,7 @@
 
 
 
-<img width="200" height="200" src="https://MengZhao2017.github.io/zm.jpg"/>  Welcome to Meng Zhao's GitHub Pages(赵猛)<Br/>Email:zhaomeng.szu.edu@gmail.com
+<img width="200" height="200" src="https://MengZhao2017.github.io/zm.jpg"/>  #Welcome to Meng Zhao's GitHub Pages(赵猛)
 
 ## Welcome to Meng Zhao's GitHub Pages(赵猛)
 
@@ -21,7 +21,7 @@ Awards
 3.2014年，获辽宁省大学生课外学术知识竞赛二等奖（挑战杯）
 4.2015年，获辽宁省第二届移动应用开发大赛三等奖
 
-### Publications
+Publications
 1.基于MVC架构的交友网站系统的设计与实现_赵猛(2014)
 2.Android应用市场中空气质量检测系统的设计与发展前景研究_赵猛(2015)
 3.基于安卓空气质量监测系统3D新闻和云图片的研究_赵猛（2016）
