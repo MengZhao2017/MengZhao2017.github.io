@@ -5,8 +5,8 @@
 <p align="right"> zhaomeng</p>
 ## Welcome to Meng Zhao's GitHub Pages(赵猛)
 
-Email:zhaomeng.szu.edu@gmail.com
-<p>Blog:http://blog.csdn.net/zhaomengszu</p>
+<p align="right">Email:zhaomeng.szu.edu@gmail.com</p>
+<p align="right">Blog:http://blog.csdn.net/zhaomengszu</p>
 
 ## Biography
 I received the BEng degree of Shenyang Institute of Technology, ShenYang, China. Since 2016, I am currently a Master student in the college of computer science and software engineering in Shen Zhen University (SZU),under the supervision of Professor Kaishun Wu.My current research interests mainly include: Mobile Computing, Wearable Computing and Wireless Communication. 
