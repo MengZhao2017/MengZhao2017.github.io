@@ -1,6 +1,6 @@
 
 
-![Image](https://MengZhao2017.github.io/zm.jpg)
+![Image](https://MengZhao2017.github.io/zm.jpg =200x100)
 ## Welcome to Meng Zhao's GitHub Pages(赵猛)
 
 Email:zhaomeng.szu.edu@gmail.com
