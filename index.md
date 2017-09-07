@@ -1,7 +1,7 @@
 
 
-![Image {200x100}](https://MengZhao2017.github.io/zm.jpg)
-<img width="150" height="150" src="https://MengZhao2017.github.io/zm.jpg"/>
+
+<img width="200" height="200" src="https://MengZhao2017.github.io/zm.jpg"/>
 ## Welcome to Meng Zhao's GitHub Pages(赵猛)
 
 Email:zhaomeng.szu.edu@gmail.com
