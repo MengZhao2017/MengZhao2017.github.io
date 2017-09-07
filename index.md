@@ -1,8 +1,9 @@
 
 
 
-<img width="200" height="200" align="left" src="https://MengZhao2017.github.io/zm1.jpg"/>  
-<p align="right"> zhaomeng</p>
+<img width="200" height="200" align="left" src="https://MengZhao2017.github.io/zm1.jpg"/> 
+
+
 <p align="right">Email:zhaomeng.szu.edu@gmail.com</p>
 <p align="right">Blog:http://blog.csdn.net/zhaomengszu</p>
 <p align="right">Addr:College of Computer Science and Software Engineering </p>
