@@ -1,37 +1,32 @@
 
-## Welcome to Meng Zhao's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MengZhao2017/MengZhao2017.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://MengZhao2017.github.io/zm.jpg)
+## Welcome to Meng Zhao's GitHub Pages(赵猛)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email:zhaomeng.szu.edu@gmail.com
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Biography
+I received the BEng degree of Shenyang Institute of Technology, ShenYang, China. Since 2016, I am currently a Master student in the college of computer science and software engineering in Shen Zhen University (SZU). My current research interests mainly include: Mobile Computing, Wearable Computing and Wireless Communication. 
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Research Interests
+Wearable and Mobile Computing, Human-computer Interaction, Ubiquitous computing
+### Awards
+1.2013年，获辽宁省首届移动应用开发大赛一等奖
+2.2014年，获辽宁省第八届大学生计算机设计竞赛一等奖
+3.2014年，获辽宁省大学生课外学术知识竞赛二等奖（挑战杯）
+4.2015年，获辽宁省第二届移动应用开发大赛三等奖
 
-- Bulleted
-- List
+### Publications
+1.基于MVC架构的交友网站系统的设计与实现_赵猛(2014)
+2.Android应用市场中空气质量检测系统的设计与发展前景研究_赵猛(2015)
+3.基于安卓空气质量监测系统3D新闻和云图片的研究_赵猛（2016）
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MengZhao2017/MengZhao2017.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
