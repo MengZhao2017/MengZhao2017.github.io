@@ -2,7 +2,7 @@
 ## Welcome to Meng Zhao's GitHub Pages(赵猛)
 
 
-<img src="https://MengZhao2017.github.io/zm1.jpg" width=200 height=200  />
+<img src="https://MengZhao2017.github.io/zm1.jpg" width=200 height=200 align="right" />
 
 
 <p align="left">Email : zhaomeng.szu.edu@gmail.com</p>
