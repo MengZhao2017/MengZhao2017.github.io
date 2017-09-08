@@ -2,8 +2,8 @@
 ## Welcome to Meng Zhao's GitHub Pages(赵猛)
 
 
-<img src="https://MengZhao2017/MengZhao2017.github.io/zm1.jpg" width=200 height=200 align="right" />
-
+<img src="https://MengZhao2017.github.io/zm1.jpg" width=200 height=200 align="right" />
+![MengZhao](zm1.jpg)
 
 <p align="left">Email : zhaomeng.szu.edu@gmail.com</p>
 <p align="left">Blog : http://blog.csdn.net/zhaomengszu</p>
