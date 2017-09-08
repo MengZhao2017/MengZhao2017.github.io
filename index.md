@@ -20,15 +20,15 @@ I received the BEng degree of Shenyang Institute of Technology, ShenYang, China.
 Wearable and Mobile Computing, Human-computer Interaction, Ubiquitous computing
 
 ## Awards
-<p><li>2013年，获辽宁省首届移动应用开发大赛一等奖</li></p>
-<p><li>2014年，获辽宁省第八届大学生计算机设计竞赛一等奖</li></p>
-<p><li>2014年，获辽宁省大学生课外学术知识竞赛二等奖（挑战杯）</li></p>
-<p><li>.2015年，获辽宁省第二届移动应用开发大赛三等奖</li></p>
+<p><li>MENG ZHAO has Won the first prize of the first mobile application development contest in Liaoning Province(2013)</li></p>
+<p><li>MENG ZHAO has Won the first prize of the eighth college students computer design competition in Liaoning Province(2014)</li></p>
+<p><li>MENG ZHAO has Won the two prize of the extracurricular knowledge competition of college students in Liaoning province (Challenge Cup)(2014)</li></p>
+<p><li>MENG ZHAO has Won the three prize of the second mobile application development competition in Liaoning Province(2015)</li></p>
 
 ## Publications
-<p><li>基于MVC架构的交友网站系统的设计与实现_赵猛(2014)</li></p>
-<p><li>Android应用市场中空气质量检测系统的设计与发展前景研究_赵猛(2015)</li></p>
-<p><li>基于安卓空气质量监测系统3D新闻和云图片的研究_赵猛（2016）</li></P>
+<p><li>Design and implementation of dating website system based on MVC architecture_MengZHao(2014)</li></p>
+<p><li>Design and development prospect of air quality inspection system in Android application market_MengZHao(2015)</li></p>
+<p><li>Research on Android air quality monitoring system, 3D news and cloud pictures_MengZHao（2016）</li></P>
 
 
 ## Microsoft Certified
