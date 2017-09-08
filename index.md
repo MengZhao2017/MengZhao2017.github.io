@@ -31,7 +31,13 @@ Wearable and Mobile Computing, Human-computer Interaction, Ubiquitous computing
 <p><li>基于安卓空气质量监测系统3D新闻和云图片的研究_赵猛（2016）</li></P>
 
 
-
+## Microsoft Certified
+<p><li> MENG ZHAO has successfully completed the requirements to be recognized as a Microsoft® Certified Technology
+Specialist: .NET Framework 4, Web Applications.(2014.7)</li></p>
+<p><li> MENG ZHAO has successfully completed the requirements to be recognized as a Microsoft® Certified Technology
+Specialist: .NET Framework 4, Data Access.(2014.7)</li></p>
+<p><li> MENG ZHAO has successfully completed the requirements to be recognized as a Microsoft® Certified Technology
+Specialist: SQL Server 2008, Database Development.(2013.6)</li></p>
 
 ### Professional Activities
 
