@@ -8,8 +8,7 @@
 <p align="left">Email : zhaomeng.szu.edu@gmail.com</p>
 <p align="left">Blog : http://blog.csdn.net/zhaomengszu</p>
 <p align="left">Addr : College of Computer Science and Software Engineering </p>
-<p align="left">Blog :[http://blog.csdn.net/zhaomengszu]( http://blog.csdn.net/zhaomengszu)</p>
-
+<p><a href=" http://blog.csdn.net/zhaomengszu">Blog : http://blog.csdn.net/zhaomengszu</a></p>
 
 
 
