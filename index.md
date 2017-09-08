@@ -35,4 +35,4 @@ Wearable and Mobile Computing, Human-computer Interaction, Ubiquitous computing
 
 ### Professional Activities
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<li>Exchange to visit Peking University for one month(2017.7)</li>
