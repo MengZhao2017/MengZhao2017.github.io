@@ -26,9 +26,9 @@ Wearable and Mobile Computing, Human-computer Interaction, Ubiquitous computing
 <p><li>MENG ZHAO has Won the three prize of the second mobile application development competition in Liaoning Province(2015)</li></p>
 
 ## Publications
-<p><li>Design and implementation of dating website system based on MVC architecture_MengZHao(2014)</li></p>
-<p><li>Design and development prospect of air quality inspection system in Android application market_MengZHao(2015)</li></p>
-<p><li>Research on Android air quality monitoring system, 3D news and cloud pictures_MengZHao（2016）</li></P>
+<p><li>Design and implementation of dating website system based on MVC architecture_MengZhao(2014)</li></p>
+<p><li>Design and development prospect of air quality inspection system in Android application market_MengZhao(2015)</li></p>
+<p><li>Research on Android air quality monitoring system, 3D news and cloud pictures_MengZhao（2016）</li></P>
 
 
 ## Microsoft Certified
@@ -40,5 +40,5 @@ Specialist: .NET Framework 4, Data Access.(2014.7)</li></p>
 Specialist: SQL Server 2008, Database Development.(2013.6)</li></p>
 
 ### Professional Activities
-
+<li>Organizing the Internet of things Forum in ShenZhen University(2016.8)</li>
 <li>Exchange to visit Peking University for one month(2017.7)</li>
