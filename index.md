@@ -39,7 +39,7 @@ Specialist: .NET Framework 4, Data Access.(2014.7)</li></p>
 <p><li> MENG ZHAO has successfully completed the requirements to be recognized as a Microsoft® Certified Technology
 Specialist: SQL Server 2008, Database Development.(2013.6)</li></p>
 
-### Professional Activities
+## Professional Activities
 <li>Organizing the Internet of things Forum in ShenZhen University(2016.8)</li>
 <li>Wearable Device and Technology Summit in ShenZhen(2017.4)</li>
 <li>Exchange to visit Peking University for one month(2017.7)</li>
