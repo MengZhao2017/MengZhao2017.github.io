@@ -44,3 +44,5 @@ Specialist: SQL Server 2008, Database Development.(2013.6)</li></p>
 <li>Wearable Device and Technology Summit in ShenZhen(2017.4)</li>
 <li>Exchange to visit Peking University for one month(2017.7)</li>
 <li>Attend the International Conference on Parallel and Distributed Systems(ICPADS 2017)(2017.12)</li>
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=YKhH33m0t731eMKTCB9frgfq8Fke-c6oczwpN9o8F1A&cl=ffffff&w=a"></script>
