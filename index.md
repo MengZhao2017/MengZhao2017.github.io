@@ -1,4 +1,4 @@
-<b>Meng Zhao(赵猛)</b>
+## Meng Zhao(赵猛)
 <img src="https://MengZhao2017.github.io/zm.jpg" width="200" height="200" align="right" alt="MengZhao"/>
 
 <p align="left">Email : zhaomeng.szu.edu@gmail.com</p>
