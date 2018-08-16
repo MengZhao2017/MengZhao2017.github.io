@@ -19,10 +19,10 @@ I received the BEng degree of Shenyang Institute of Technology, ShenYang, China.
 Wearable and Mobile Computing, Human-computer Interaction, Ubiquitous computing
 
 ## Awards
-<p><li>* MENG ZHAO has Won the first prize of the first mobile application development contest in Liaoning Province(2013)</li></p>
-<p><li>* MENG ZHAO has Won the first prize of the eighth college students computer design competition in Liaoning Province(2014)</li></p>
-<p><li>* MENG ZHAO has Won the two prize of the extracurricular knowledge competition of college students in Liaoning province (Challenge Cup)(2014)</li></p>
-<p><li>* MENG ZHAO has Won the three prize of the second mobile application development competition in Liaoning Province(2015)</li></p>
+<p><li>MENG ZHAO has Won the first prize of the first mobile application development contest in Liaoning Province(2013)</li></p>
+<p><li>MENG ZHAO has Won the first prize of the eighth college students computer design competition in Liaoning Province(2014)</li></p>
+<p><li>MENG ZHAO has Won the two prize of the extracurricular knowledge competition of college students in Liaoning province (Challenge Cup)(2014)</li></p>
+<p><li>MENG ZHAO has Won the three prize of the second mobile application development competition in Liaoning Province(2015)</li></p>
 
 ## Publications
 <p><li>Design and implementation of dating website system based on MVC architecture_MengZhao(2014)</li></p>
