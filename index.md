@@ -11,7 +11,7 @@
 
 
 
-## Biography
+## Biography<font color=#0099ff size=7 face="黑体">Biography</font>
 I received the BEng degree of Shenyang Institute of Technology, ShenYang, China. Since 2016, I am currently a Master student in the<a href="http://csse.szu.edu.cn/cn/index"> college of computer science and software engineering </a> in <a href="http://www.szu.edu.cn ">ShenZhen University </a>,under the supervision of Professor &nbsp;<a href=" https://yongpanzou.github.io/">YongPan Zou</a> and &nbsp;<a href="http://www.kaishunwu.com/index.html">KaiShun Wu.</a>  My current research interests mainly include: Mobile Computing, Wearable Computing and Wireless Communication. 
 
 
