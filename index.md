@@ -1,6 +1,6 @@
 
 
-<font color="#0000dd" size="7">Meng Zhao(赵猛) </font>
+<b><font color="#0000dd" size="7" >Meng Zhao(赵猛) </font></b>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img src="https://MengZhao2017.github.io/zm.jpg" width="200" height="200" align="right"  alt="MengZhao"/>
 <p align="left">Email : zhaomeng.szu.edu@gmail.com</p>
