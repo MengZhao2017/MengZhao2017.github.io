@@ -28,6 +28,7 @@ Wearable and Mobile Computing, Human-computer Interaction, Ubiquitous computing
 <p><li>Design and implementation of dating website system based on MVC architecture_MengZhao(2014)</li></p>
 <p><li>Design and development prospect of air quality inspection system in Android application market_MengZhao(2015)</li></p>
 <p><li>Research on Android air quality monitoring system, 3D news and cloud pictures_MengZhao（2016）</li></P>
+<p><li>BiLock: User Authentication via Dental Occlusion Biometrics _MengZhao（Ubicomp 2018）</li></P>
  
 
 ## Microsoft Certified
