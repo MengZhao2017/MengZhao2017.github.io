@@ -7,7 +7,7 @@
 <p align="left">Place : <a href="http://www.szu.edu.cn ">ShenZhen University </a></p>
 <p align="left">Addr : College of Computer Science and Software Engineering </p>
 <p> Blog :<a href=" http://blog.csdn.net/zhaomengszu"> http://blog.csdn.net/zhaomengszu</a></p>
-<p> <a href="./FullList.html"> Full List </a></p>
+
 
 
 ## Biography 
