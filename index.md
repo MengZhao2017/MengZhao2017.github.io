@@ -45,5 +45,7 @@ Specialist: SQL Server 2008, Database Development.(2013.6)</li></p>
 <li>Exchange to visit Peking University for one month(2017.7)</li>
 <li>Attend the International Conference on Parallel and Distributed Systems(ICPADS 2017)(2017.12)</li>
 <li>Practice at China Merchants Bank (2018.7)</li>
+<li>Attend the International Conference on Ubiquitous computing(Ubicomp 2018) (2018.10)</li>
+<li>Attend the International Conference on Ubiquitous computing(Mobiquitous 2018) (2018.11)</li>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=YKhH33m0t731eMKTCB9frgfq8Fke-c6oczwpN9o8F1A&cl=ffffff&w=a"></script>
